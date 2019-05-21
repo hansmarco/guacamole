@@ -4,7 +4,7 @@
 - onion
 - sald & pepper
 
-Put into a bowl and mix a lot.
+Put into a bowl and mix a lot. A lot.
 
 An example for **Git** understanding
 
