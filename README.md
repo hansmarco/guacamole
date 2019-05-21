@@ -1,2 +1,2 @@
 # guacamole
-An example for Git introduction
+An example for **Git** understanding
