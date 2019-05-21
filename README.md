@@ -1,4 +1,11 @@
 # A recipe for Guacamole
+
+- avocado
+- onion
+- sald & pepper
+
+Put into a bowl and mix.
+
 An example for **Git** understanding
 
 - Bullet
