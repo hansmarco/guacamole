@@ -3,6 +3,9 @@
 - avocado
 - onion
 - sald & pepper
+- garlic
+- salmon
+- tabasco sauce
 
 Put into a bowl and mix a lot. A lot. A lot again
 
