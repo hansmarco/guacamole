@@ -1,7 +1,7 @@
-# A recipe for hummus
+# A recipe for hummus is horrible
 
 - chickpeas
 - tahini
 - olive oil
 - paprika powder
-- lomon
+- lemon
